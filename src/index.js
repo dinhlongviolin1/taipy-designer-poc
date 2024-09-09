@@ -25,5 +25,5 @@ document.querySelectorAll("#number-group button").forEach((btn, id) => {
 });
 
 document.querySelectorAll("#string-group button").forEach((btn, id) => {
-  bindGroup(btn, id, "number");
+  bindGroup(btn, id, "string");
 });
